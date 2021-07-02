@@ -1,2 +1,2 @@
 # code-breaker
-Java codes for a game Code breaker 
+Java codes for the Code breaker game
